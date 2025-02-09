@@ -20,7 +20,7 @@ Set up your package.json scripts to use Nodemon:
   "start": "node server.js",
   "dev": "nodemon server.js"
 }
-https://rajaraodv.medium.com/step-by-step-guide-to-building-react-redux-apps-using-mocks-48ca0f47f9a#.s7zsgq3u1
+[Steps to See](https://rajaraodv.medium.com/step-by-step-guide-to-building-react-redux-apps-using-mocks-48ca0f47f9a#.s7zsgq3u1)
 Create a .env file for environment variables (like your database URI):
 PORT=3000
 DB_URI=mongodb://localhost:27017/mycrudapp
